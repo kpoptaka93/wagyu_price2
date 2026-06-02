@@ -14,6 +14,10 @@ a:hover {
 p {
   color: #fff;
 }
+.card, 
+.card-img-top {
+  border-radius: 0 !important;
+}
 
 .content-width {
   max-width: 1200px;
